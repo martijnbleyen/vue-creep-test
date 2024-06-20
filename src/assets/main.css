@@ -1,0 +1,19 @@
+body,
+html {
+  background: #24273a;
+}
+
+#app {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+button {
+  background: #8bd5ca;
+  padding: 0.5rem 1rem;
+  color: #fff;
+  border-radius: 3px;
+  border: none;
+  font-size: 1.5rem;
+}
